@@ -13,11 +13,6 @@
 
 
 
-
-
-
-
-
 "use strict";
 			
 /* ======= Play/Stop Video in Bootstrpa Modal  ======= */		
